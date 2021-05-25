@@ -27,7 +27,7 @@ Bloom-assignment
 
 ![image](https://user-images.githubusercontent.com/61084224/119557077-59eb6600-bdbd-11eb-8de4-63eb438e9b52.png)
 
-![image](https://user-images.githubusercontent.com/61084224/119557090-5e178380-bdbd-11eb-92ba-c1b04a9c0c1f.png)
+![image](https://user-images.githubusercontent.com/61084224/119557439-d120fa00-bdbd-11eb-8286-69853e76aba1.png)
 
 ![image](https://user-images.githubusercontent.com/61084224/119557107-640d6480-bdbd-11eb-820e-e741ec35c943.png)
 
