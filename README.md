@@ -8,9 +8,9 @@ Bloom-assignment
 
 ![image](https://user-images.githubusercontent.com/61084224/119556866-21e42300-bdbd-11eb-8192-2269a4255a3d.png)
 
-![image](https://user-images.githubusercontent.com/61084224/119556884-26104080-bdbd-11eb-85b0-45e5907f71a8.png)
+![image](https://user-images.githubusercontent.com/61084224/119557254-915a1280-bdbd-11eb-9755-535dc4fd960a.png)
 
-![image](https://user-images.githubusercontent.com/61084224/119556896-2b6d8b00-bdbd-11eb-9796-77c190d4b70a.png)
+![image](https://user-images.githubusercontent.com/61084224/119557273-98812080-bdbd-11eb-90b5-552186823e0e.png)
 
 # Week 6:
 1) Finding largest file and removing it
